@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cartas</string>
+    <string name="user">Escribe el nombre de usuario o nick</string>
+    <string name="password">Escribe la contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="nuevoUser">Crear nuevo jugador</string>
+    <string name="CrearJugador">Crear jugador</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_list">Lista</string>
+    <string name="title_profile">Perfil</string>
+    <string name="label_perfil">Perfil del jugador</string>
+    <string name="nombre">Nombre del jugador</string>
+    <string name="PGanadas">Partidas Ganadas</string>
+    <string name="PPerdidas">Partidas Perdidas</string>
+    <string name="PEmpatadas">Partidas Empatadas</string>
+    <string name="PJugadas">Partidas Jugadas</string>
+    <string name="Jugar">Jugar</string>
+    <string name="exit">Salir</string>
+</resources>
