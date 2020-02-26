@@ -16,9 +16,7 @@ import kotlinx.android.synthetic.main.fragment_list.view.*
 
 class ListFragment : Fragment() {
     private lateinit var _view: View
-    var array = arrayOf("Melbourne", "Vienna", "Vancouver", "Toronto", "Calgary", "Adelaide",
-        "Perth", "Auckland", "Helsinki", "Hamburg", "Munich", "New York", "Sydney", "Paris",
-        "Cape Town", "Barcelona", "London", "Bangkok")
+    var array = arrayOf("Jugador 1", "Jugador 2", "Jugador 3", "Jugador 4", "Jugador 5")
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?): View? {
